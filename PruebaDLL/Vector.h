@@ -18,10 +18,8 @@ public:
 	// Operadores
 	Vector& operator =(const Vector&);
 
-
 	// Destructor
 	~Vector();
-
 
 private:
 
